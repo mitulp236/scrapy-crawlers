@@ -8,6 +8,7 @@
 *.db
 *.csv
 *.pdf
-
+.env
+*.env
 # Local History for Visual Studio Code
 .history/

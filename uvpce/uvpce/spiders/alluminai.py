@@ -1,6 +1,10 @@
 import scrapy
 from scrapy.http import FormRequest, Request, TextResponse
 import json
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
 
 class AlluminaiSpider(scrapy.Spider):
     name = 'alluminai'
@@ -11,7 +15,7 @@ class AlluminaiSpider(scrapy.Spider):
         return Request(
             url="https://alumni.ganpatuniversity.ac.in/api/login/loginUser",
             method="post",
-            body=json.dumps({"email":"mitulp236@gmail.com","password":"*mitul123","force_signup_cid":"11"}),
+            body=json.dumps({"email":os.getenv("ganpat_uni_alumni_email"),"password":os.getenv("ganpat_uni_alumni_password"),"force_signup_cid":"11"}),
             callback=self.after_login
             )
 
