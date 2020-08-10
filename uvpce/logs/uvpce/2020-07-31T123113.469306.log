@@ -1,0 +1,284 @@
+2020-07-31 12:31:13 [scrapy] DEBUG: Crawled (200) <GET https://www.uvpce.ac.in/robots.txt> (referer: None)
+2020-07-31 12:31:13 [scrapy] DEBUG: Crawled (200) <GET https://www.uvpce.ac.in/ce-faculty> (referer: None)
+2020-07-31 12:31:13 [scrapy] DEBUG: Crawled (200) <GET https://www.uvpce.ac.in/bm-faculty> (referer: None)
+2020-07-31 12:31:13 [scrapy] DEBUG: Crawled (200) <GET https://www.uvpce.ac.in/mc-faculty> (referer: None)
+2020-07-31 12:31:13 [scrapy] DEBUG: Crawled (200) <GET https://www.uvpce.ac.in/ele-faculty> (referer: None)
+2020-07-31 12:31:13 [scrapy] DEBUG: Crawled (200) <GET https://www.uvpce.ac.in/me-faculty> (referer: None)
+2020-07-31 12:31:13 [scrapy] DEBUG: Crawled (200) <GET https://www.uvpce.ac.in/cv-faculty> (referer: None)
+2020-07-31 12:31:13 [scrapy] DEBUG: Crawled (200) <GET https://www.uvpce.ac.in/marine-faculty> (referer: None)
+2020-07-31 12:31:13 [scrapy] DEBUG: Crawled (200) <GET https://www.uvpce.ac.in/it-faculty> (referer: None)
+2020-07-31 12:31:13 [scrapy] DEBUG: Crawled (200) <GET https://www.uvpce.ac.in/ec-faculty> (referer: None)
+2020-07-31 12:31:13 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ce-faculty>
+{'Faculty_name': 'Dr. Kiran R. Amin (Ph.D., M.E., B.E.)', 'Experience': '26 Years', 'Email': ' kiran.amin@ganpatuniversity.ac.in', 'Designation': 'Professor & Principal', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/kra.jpg?itok=LPD9-mW9', 'Branch': 'ce'}
+2020-07-31 12:31:13 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ce-faculty>
+{'Faculty_name': ' Dr. Paresh Solanki (Ph.D., M.Tech, B.E.)', 'Experience': '19', 'Email': 'paresh.solanki@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor  and Head (CE)', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/pms.jpg?itok=EKSa2Q_1', 'Branch': 'ce'}
+2020-07-31 12:31:13 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ce-faculty>
+{'Faculty_name': 'Dr. Hemal Shah (Ph.D., M.Tech, B.E.)', 'Experience': '22', 'Email': 'hemal.shah@ganpatuniversity.ac.in', 'Designation': 'Professor ', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/HVS.JPG?itok=hu6HqQT6', 'Branch': 'ce'}
+2020-07-31 12:31:13 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ce-faculty>
+{'Faculty_name': 'Mr. Pravesh Patel (M.Tech, B.E., D.E)', 'Experience': '13 Years', 'Email': 'pravesh.patel@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/psp.jpg?itok=vnXvYyoH', 'Branch': 'ce'}
+2020-07-31 12:31:13 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ce-faculty>
+{'Faculty_name': 'Ms. Menka Patel(M.E.,B.E.)', 'Experience': '12.8 years', 'Email': 'menka.patel@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/menka.jpg?itok=qo4ysm6I', 'Branch': 'ce'}
+2020-07-31 12:31:13 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ce-faculty>
+{'Faculty_name': 'Mr. Chirag  Gami  (M.Tech,  B.Tech,  Diploma)', 'Experience': '5 Years', 'Email': 'ccg01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/ccg.jpg?itok=FJ28QFtK', 'Branch': 'ce'}
+2020-07-31 12:31:13 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ce-faculty>
+{'Faculty_name': 'Mr. Ravi F. Raval (M.Tech, B.Tech, Diploma)', 'Experience': '6 Years', 'Email': 'rfr01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_20200314_122051.jpg?itok=wLJ63Oi6', 'Branch': 'ce'}
+2020-07-31 12:31:13 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ce-faculty>
+{'Faculty_name': 'Sweta A Dargad (M.Tech,B.E)', 'Experience': '6 years', 'Email': 'sad03@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/sad.jpg?itok=PSO8HJ8x', 'Branch': 'ce'}
+2020-07-31 12:31:13 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ce-faculty>
+{'Faculty_name': 'Mr.Ritesh Upadhyay (M.Tech, B.E.)', 'Experience': '2 years', 'Email': 'ru01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/ru.jpg?itok=NNugQZkj', 'Branch': 'ce'}
+2020-07-31 12:31:13 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ce-faculty>
+{'Faculty_name': 'Mr. Hiten Sadani (M.Tech, B.E.)', 'Experience': '4.5 Years', 'Email': 'hms02@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/WhatsApp%20Image%202020-04-10%20at%202.52.39%20PM.jpeg?itok=LpTp8JLP', 'Branch': 'ce'}
+2020-07-31 12:31:13 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ce-faculty>
+{'Faculty_name': 'Mr. Manan Thakkar (M.Tech, B.E.)', 'Experience': '3.5 Years', 'Email': 'mdt01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/20191108_121001.jpg?itok=oOD_8iya', 'Branch': 'ce'}
+2020-07-31 12:31:13 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ce-faculty>
+{'Faculty_name': 'Mr. Nilesh Parmar (M.Tech., B.E.) ', 'Experience': '6.5 years', 'Email': 'nap02@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/NP_Image_for_GNU.jpg?itok=sAvzsv1A', 'Branch': 'ce'}
+2020-07-31 12:31:13 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ce-faculty>
+{'Faculty_name': 'Ms. Sangeeta Giri (M.E,B.tech)', 'Experience': '8 Months', 'Email': 'sg01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_20191108_095612.jpg?itok=LSR6wP96', 'Branch': 'ce'}
+2020-07-31 12:31:13 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ce-faculty>
+{'Faculty_name': 'Mr. Venus R. Patel (M.tech,B.E.)', 'Experience': '6 Months', 'Email': 'vrp02@ganpatuniversity.ac.in', 'Designation': ' Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/2020-03-15-10-40-40-968.jpg?itok=mrM0x0JW', 'Branch': 'ce'}
+2020-07-31 12:31:13 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ce-faculty>
+{'Faculty_name': 'Dr. Sameer K. Rohadia', 'Experience': '1', 'Email': 'rohadiasameer@yahoo.com', 'Designation': 'Adjunct Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/SAMIR.jpg?itok=SXeykgyz', 'Branch': 'ce'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/bm-faculty>
+{'Faculty_name': 'Mr. Himanshu A. Patel (M.Tech, B.E.)', 'Experience': '20 Years', 'Email': 'himanshu.patel@ganpatuniversity.ac.in', 'Designation': 'Associate Professor & Head of Department', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/hap_0.jpg?itok=AMdRKsKu', 'Branch': 'bm'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/bm-faculty>
+{'Faculty_name': 'Ms. Raksha K. Patel (M.Tech., B.E.) ', 'Experience': '16 Years', 'Email': 'raksha.patel@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor (BME)', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/rkp_1.jpg?itok=owqB8VX5', 'Branch': 'bm'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/bm-faculty>
+{'Faculty_name': 'Mr. Tejaskumar V. Bhatt (M.Tech., B.E., D.E.)', 'Experience': '16 Years', 'Email': 'tejas.bhatt@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor (BME)', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/tejas.jpg?itok=PUs75GCh', 'Branch': 'bm'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/bm-faculty>
+{'Faculty_name': 'Ms. Hitiksha A. Shah (M.E., B.E.)', 'Experience': '13 Years', 'Email': 'hitiksha.shah@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/hks.jpg?itok=3BBtdLYY', 'Branch': 'bm'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/bm-faculty>
+{'Faculty_name': 'Ms. Heena K. Patel (M.Tech., B.Tech.)', 'Experience': '10 years', 'Email': 'hkp01@ganpatuniversity.ac.in', 'Designation': 'Assistant professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/31959532_1771486236224081_4802918054302318592_o.jpg?itok=K9PUnn0n', 'Branch': 'bm'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/bm-faculty>
+{'Faculty_name': 'Ms. Palak A. Parikh (Master, B.E.)', 'Experience': '8 Years', 'Email': 'pap01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor ', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/palak.jpg?itok=UCpFCUAg', 'Branch': 'bm'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/mc-faculty>
+{'Faculty_name': 'Dr. Jigneshkumar Rameshbhai Mevada (Ph.D., M.Tech (ME), BE(ME))', 'Experience': '19', 'Email': 'jignesh.mevada@ganpatuniversity.ac.in', 'Designation': 'Associate Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/mevada.jpg?itok=oax_3GVO', 'Branch': 'mc'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ele-faculty>
+{'Faculty_name': 'Dr. Rakesh A. Patel ( Ph.D., M. E., B. E.)', 'Experience': '24 Years', 'Email': 'rap01@ganpatuniversity.ac.in', 'Designation': 'Professor & Head', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/rap.jpg?itok=tUqc1832', 'Branch': 'ele'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/mc-faculty>
+{'Faculty_name': 'Mr. Jitendra K. Prajapati (M. Tech., B.E. )', 'Experience': '13.5  Years', 'Email': 'jitendra.prajapati@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_8160.jpg?itok=2TrD6cHY', 'Branch': 'mc'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/mc-faculty>
+{'Faculty_name': 'Mr. Trushar Shah(M.Tech., B.E.)', 'Experience': '12 Years', 'Email': 'trushar.shah@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/tushar.jpg?itok=_C-41bic', 'Branch': 'mc'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/mc-faculty>
+{'Faculty_name': 'Mr. Ketan Patel (M.Tech., B.E.)', 'Experience': '12 Years', 'Email': 'kjp02@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/K.J.Patel_.jpeg?itok=27-V2pvA', 'Branch': 'mc'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/mc-faculty>
+{'Faculty_name': 'Mr. Dhavalkumar Soni (M.Tech., B.Tech.)', 'Experience': '11 Years', 'Email': 'dks01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/soni_me.jpg?itok=4qMy21vm', 'Branch': 'mc'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/mc-faculty>
+{'Faculty_name': 'Mr. Vijay  D. Patel (M.tech.,B.E.)', 'Experience': '10 Years', 'Email': 'vdp02@ganpatuniversity.ac.in ', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_20191118_085352.jpg?itok=bM-kxu1N', 'Branch': 'mc'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/mc-faculty>
+{'Faculty_name': 'Ms. Mittal J. Brahmbhatt  (M.E., B.E.)', 'Experience': '5 Years', 'Email': 'mjb01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/MJB_0.png?itok=AupbAqdb', 'Branch': 'mc'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ele-faculty>
+{'Faculty_name': 'Mr. Vishnu B. Patel (M. E., B. E.)', 'Experience': '17 Years', 'Email': 'vishanu.patel@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/vbp.jpg?itok=WjQGmqvw', 'Branch': 'ele'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ele-faculty>
+{'Faculty_name': 'Mr. Mitul M. Modi (M. E., B. E.)', 'Experience': '13 Years', 'Email': 'mitul.modi@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/PhotoSite.jpg?itok=0BVOqjDX', 'Branch': 'ele'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ele-faculty>
+{'Faculty_name': 'Mr. Manish S. Patel (M. E, B. E)', 'Experience': '9 Years', 'Email': 'msp01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/manish.jpg?itok=gzSJCVXu', 'Branch': 'ele'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ele-faculty>
+{'Faculty_name': 'Mr. Ravi C. Bhavsar (M. Tech, B. E.)', 'Experience': '9 Years', 'Email': 'rcb01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_20160806_143017.jpg?itok=U2zdkzoz', 'Branch': 'ele'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ele-faculty>
+{'Faculty_name': 'Mr.Nikunj N. Patel (M. E., B. E.)', 'Experience': ' 5 Years ', 'Email': 'nnp01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/20200412_085636_1.jpg?itok=MKtciWjS', 'Branch': 'ele'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ele-faculty>
+{'Faculty_name': 'Mr. Mohit A. Bhavsar (M. E., B. E.)', 'Experience': '10 Years', 'Email': 'mab01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_20200105_103812.jpg?itok=2NJ2iosv', 'Branch': 'ele'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ele-faculty>
+{'Faculty_name': 'Ms. Anvi J. Gajjar (M. E., B. E.)', 'Experience': '2 Years', 'Email': 'ajg01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor ', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/20200411_194026.jpg?itok=XV5ZxZ-3', 'Branch': 'ele'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ele-faculty>
+{'Faculty_name': 'Ms. Kripa H. Patel (M. Tech, B. E.)', 'Experience': '1 Year', 'Email': 'khp03@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/20200320_100925%20-%20Copy.jpg?itok=-m4eGM_j', 'Branch': 'ele'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ele-faculty>
+{'Faculty_name': 'Ms. Urja R. Sharma (M. Tech, B. E.)', 'Experience': '1 Year', 'Email': 'urs01@ganpatuniversity.ac.in', 'Designation': 'Assistant professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/20200320_100959%20-%20Copy.jpg?itok=8fPxrhin', 'Branch': 'ele'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ele-faculty>
+{'Faculty_name': 'Ms. Madhumalar T. (M. E., B. E.)', 'Experience': '1 Year', 'Email': 'mmt01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/myself.jpg?itok=n_QcBIua', 'Branch': 'ele'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/me-faculty>
+{'Faculty_name': 'Dr. Chirag  Patel (Ph.D., M.E.)', 'Experience': '17 Years', 'Email': 'chirag.p.patel@ganpatuniversity.ac.in', 'Designation': 'Associate Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/cp.jpg?itok=IMhSQUZP', 'Branch': 'me'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/cv-faculty>
+{'Faculty_name': 'Dr. Chandresh G. Patel (Ph.D., M.E., B.E.)', 'Experience': '23 Years', 'Email': 'chandresh.patel@ganpatuniversity.ac.in', 'Designation': 'Associate Professor/ HOD (Incharge)', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/1.png?itok=zdzWuVf5', 'Branch': 'cv'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Mr. Saurabh A. Girdhar', 'Experience': '7 Years', 'Email': 'sag01@ganpatuniversity.ac.in', 'Designation': 'Head, Department of Marine Engineering', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/SAG1.JPG?itok=R3ujDm4z', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/it-faculty>
+{'Faculty_name': 'Dr. Rakesh Vanzara (Ph.D., M.Tech, B.E.)', 'Experience': '21 Years', 'Email': 'rakesh.vanzara@ganpatuniversity.ac.in', 'Designation': 'Professor & Head', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_8254.JPG?itok=yNqU8V45', 'Branch': 'it'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ec-faculty>
+{'Faculty_name': 'Dr. Vijay K. Patel (Ph.D., M.Tech., B.E.)', 'Experience': '21 Years', 'Email': 'vijay.patel@ganpatuniversity.ac.in', 'Designation': 'Associate Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/vkp.jpg?itok=XAbIsAgd', 'Branch': 'ec'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/me-faculty>
+{'Faculty_name': 'Mr. Haresh A. Patel (M.Tech. B.E)', 'Experience': '20 Years', 'Email': 'haresh.a.patel@ganpatuniversity.ac.in', 'Designation': 'Associate Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG-8066_0.jpg?itok=-jP2Eu1G', 'Branch': 'me'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/me-faculty>
+{'Faculty_name': 'Dr. Bhaveshkumar P. Patel (Ph.D., M.E., B.E.)', 'Experience': '16 Years', 'Email': 'bpp01@ganpatuniversity.ac.in', 'Designation': 'Associate Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG-8171_0.jpg?itok=PwcRkFHD', 'Branch': 'me'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/me-faculty>
+{'Faculty_name': 'Mr. Pradipkumar S. Chaudhari (M. Tech, B.E.)', 'Experience': '13 Years', 'Email': 'pradip.chaudhari@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/Untitled1.png?itok=zPogU0m2', 'Branch': 'me'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/me-faculty>
+{'Faculty_name': 'Mr. Ravi K. Patel (M.Tech., B.E.)', 'Experience': '13 Years', 'Email': 'rkp@ganpatuniversity.ac.in ', 'Designation': 'Assistant  Professor.', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/rkpme.jpg?itok=IF9mxhM6', 'Branch': 'me'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/me-faculty>
+{'Faculty_name': 'Mr. Uchit J. Patel (ME, B.E.)', 'Experience': '9 Years', 'Email': 'ujp02@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG-8231.jpg?itok=tAicREMh', 'Branch': 'me'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/me-faculty>
+{'Faculty_name': 'Mr. Ashish V. Patel (M.Tech, B.E.)', 'Experience': '9 years', 'Email': 'avp01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor  ', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_8060.jpeg?itok=TavwSV0S', 'Branch': 'me'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/me-faculty>
+{'Faculty_name': 'Mr. Vipul P. Patel (M.Tech, B.E.)', 'Experience': '8 Years', 'Email': 'vpp04@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG-8069.jpg?itok=utZCgHEJ', 'Branch': 'me'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/me-faculty>
+{'Faculty_name': 'Mr. Modasiya Shahabuddin Mohmed Ishhaq (ME, B.E.) ', 'Experience': '12 Years', 'Email': 'smm01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG-8147.jpg?itok=s0aCk4kT', 'Branch': 'me'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/me-faculty>
+{'Faculty_name': 'Mr. Himanshu R. Sathavara (ME, B.E.)', 'Experience': '8 Years', 'Email': 'hrs01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_8047.jpeg?itok=pB6c9xBQ', 'Branch': 'me'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/me-faculty>
+{'Faculty_name': 'Mr. Amitkumar S. Patel (ME,B.E.)', 'Experience': '8 Years', 'Email': 'asp02@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG-8158.jpg?itok=vdBCiHx6', 'Branch': 'me'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/me-faculty>
+{'Faculty_name': 'Mr. Puneet Bansal (M.Tech, B.Tech)', 'Experience': '6 Years ', 'Email': 'pgb01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG-8082.jpg?itok=AvJPokd5', 'Branch': 'me'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/me-faculty>
+{'Faculty_name': 'Mr. Maharishi K. Trivedi (M.Tech, B.Tech)', 'Experience': '7 Years', 'Email': 'mkt01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG-8083.jpg?itok=064O6zVh', 'Branch': 'me'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/me-faculty>
+{'Faculty_name': 'Mr. Ramnarayan R. Meena  (M.Tech, B.Tech) ', 'Experience': '9 Years ', 'Email': 'rrm02@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/mina.jpg?itok=skdEPtuB', 'Branch': 'me'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/me-faculty>
+{'Faculty_name': 'Mr. Dinesh H. Bhingaradiya (M.Tech, B.E.)', 'Experience': ' 7 Years', 'Email': 'dhb01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor (ME)', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG-8157.jpg?itok=9WBdf0Sl', 'Branch': 'me'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/me-faculty>
+{'Faculty_name': 'Mr. Jigarkumar V. Patel (M.Tech, B.E.)', 'Experience': '7 Years', 'Email': 'jvp01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_8053.jpeg?itok=yR1VVIbO', 'Branch': 'me'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/me-faculty>
+{'Faculty_name': 'Mr.Bhailal V. Bhuva (ME,B.E.)', 'Experience': '8 Years', 'Email': 'bvb01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_8057_1.jpeg?itok=IqTcM6s4', 'Branch': 'me'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/cv-faculty>
+{'Faculty_name': 'Ms. Abhilasha  Senapati (M.Tech., B.E.)', 'Experience': '9 Years', 'Email': 'as02@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/abhilasa.jpg?itok=ifZUmm2u', 'Branch': 'cv'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/cv-faculty>
+{'Faculty_name': 'Mr. Arjun M. Butala (M.Tech , B.E )', 'Experience': '09  Years', 'Email': 'amb03@ganpatuniversity.ac.in', 'Designation': 'PG Coordinator (SE) & Assistant Professor ', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/arjun.jpg?itok=2oFxZT44', 'Branch': 'cv'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/cv-faculty>
+{'Faculty_name': 'Mr. Hiral Patel (M.E., B.E.)', 'Experience': '9 years', 'Email': 'hvp01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/HIral.jpg?itok=dVhcIYcT', 'Branch': 'cv'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/cv-faculty>
+{'Faculty_name': 'Mr. Pareshkumar H. Patel (M.E., B.E.)', 'Experience': '8 Years', 'Email': 'php01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/_DSC0360.JPG?itok=pySaijTD', 'Branch': 'cv'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/cv-faculty>
+{'Faculty_name': 'Mr. Amandeep Singh B. Bhalla (M.E., B.E.)', 'Experience': '7 Years.', 'Email': 'abb01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_20200411_171936.jpg?itok=qJLi3LtF', 'Branch': 'cv'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/cv-faculty>
+{'Faculty_name': 'Mr. Jayraj Solanki (M.E., B.E.)', 'Experience': '7 Years', 'Email': 'jvs01@ganpatuniversity.ac.in', 'Designation': 'Head PG & Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/jvs_0.jpg?itok=T2MGWL7Q', 'Branch': 'cv'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/cv-faculty>
+{'Faculty_name': 'Mr. Ankitkumar Patel (M.E., B.E.)', 'Experience': '7 Years 0 Month', 'Email': 'asp03@ganpatuniversity.ac.in', 'Designation': 'PG Coordinator (CEM) & Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/Screenshot_20190721-214618.png?itok=_nX7vqBl', 'Branch': 'cv'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/cv-faculty>
+{'Faculty_name': 'Mr. Miteshkumar B. Patel (M.E., B.Tech.)', 'Experience': '5 year', 'Email': 'mbp01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_20200412_115832.jpg?itok=7hvYSkvY', 'Branch': 'cv'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/cv-faculty>
+{'Faculty_name': 'Mr. Nirmal S. Mehta (M.E., B.Tech.)', 'Experience': '4 Year 11 Month', 'Email': 'nsm01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/mehta.jpg?itok=yzxpOJXC', 'Branch': 'cv'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/cv-faculty>
+{'Faculty_name': 'Mr. Ronak N. Modi (M.E.,B.Tech.)', 'Experience': '4 Year 2 Month', 'Email': 'rnm01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_20200411_091630.jpg?itok=gF6_-KAH', 'Branch': 'cv'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/cv-faculty>
+{'Faculty_name': 'Mr. Jainkumar S. Patel  (M.Tech,B.E)', 'Experience': '28 Year', 'Email': 'jsp02@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/jspIMG_20200508_101810.jpg?itok=4W8jIFy4', 'Branch': 'cv'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/cv-faculty>
+{'Faculty_name': 'Mr. Kamlesh Damdoo (M.E., B.E.)', 'Experience': '2.8 Years', 'Email': 'krd01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/Damdoo_1.jpg?itok=JiUC0gzE', 'Branch': 'cv'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/cv-faculty>
+{'Faculty_name': 'Mr. Abhay Bhuva (M.E , B.E) ', 'Experience': '2.5 Year', 'Email': 'apb02@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/1532523468_tmp_200_x_230_PIXEL_0.jpg?itok=wINR5GHf', 'Branch': 'cv'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/cv-faculty>
+{'Faculty_name': 'Ms. Mansi V. Patel (M.Tech., B.E.)', 'Experience': '09 Months', 'Email': 'mvp02@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_20200529_092906new.jpg?itok=n_bIMMSO', 'Branch': 'cv'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/cv-faculty>
+{'Faculty_name': 'Dr. Jishnu R. Gohel (PhD, ME, B.Tech(Hons.))', 'Experience': '6 Years', 'Email': 'jrg01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/Jishnu%20Rajeshbhai%20Gohel.jpg?itok=mgauX8G2', 'Branch': 'cv'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/cv-faculty>
+{'Faculty_name': 'Ms. Vidhi Rasikbhai Patel (M.Tech.,B.E.)', 'Experience': '6 Years 6 Month', 'Email': 'vrp03@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/Photo_0.jpg?itok=rmaod5-V', 'Branch': 'cv'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Mr. Giriraj. K. Tejra', 'Experience': '8 Years', 'Email': 'gkt01@ganpatuniversity.ac.in', 'Designation': 'Professor and C/I B.Tech', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/gkt1.JPG?itok=7Syv6KxQ', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Capt. Arun Shanker Yagnick ', 'Experience': '1 Years', 'Email': 'asy01@ganpatuniversity.ac.in', 'Designation': 'Professor and C/I GP Ratings', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/Yagnick.jpg?itok=Crx21W4b', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Mr. Manohar. M. Khatri', 'Experience': '7 Years', 'Email': 'mmk01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/mmk1.JPG?itok=xGPUPxJO', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Mr. Shailesh Prasad', 'Experience': '1 Years', 'Email': 'sp01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/Shailesh%20Prasad.jpeg?itok=RWTHTnsH', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Mr. Brajesh Kumar Singh', 'Experience': '1 Years', 'Email': 'bks01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/BKS.jpeg?itok=yfv0nkWp', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Mr. Hariprasad.K.V', 'Experience': '2 Years', 'Email': 'hkv01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/HKV.jpeg?itok=ODXdXV0P', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Mr. Hardik Patel', 'Experience': '14 Years', 'Email': 'hap09@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/HAP.JPG?itok=1wP4AQ1l', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Mr. Ashil V Patel', 'Experience': '6 Years', 'Email': 'avp04@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/AVP.JPG?itok=IcY6Cde6', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Mr. Mihir A Patel', 'Experience': '5 Years', 'Email': 'map04@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/MAP.JPG?itok=_3PhkBVZ', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Mr. Vinoth Kumar Gopi', 'Experience': '5 Years', 'Email': 'vg01@ganpatuniversity.ac.in', 'Designation': 'Administrative Officer cum Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_0912.JPG?itok=kuA58yzL', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Mr. Parth Virag Desai', 'Experience': '1.5 Years', 'Email': 'pvd01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG-20190405-WA0003.jpg?itok=lVgNDD_B', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Mr. Nehalkumar Y Solanki', 'Experience': '1 Years', 'Email': 'nys02@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/Nehal%20pp%20photo.JPG?itok=b5Lykp5d', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Mr. Abhishek Ambalal Raval', 'Experience': '1 Years', 'Email': 'aar03@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/AAR.jpeg?itok=C5Oo7oAA', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Mr. Parth Sharma', 'Experience': '1 Years', 'Email': 'ps01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/PS.jpeg?itok=ozJa6z55', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Mr. D.S. Lokhande', 'Experience': '8 Years', 'Email': 'dsl01@ganpatuniversity.ac.in', 'Designation': 'Warden cum Instructor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/DSL.JPG?itok=kGNbqIv_', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Mr. RB Singh', 'Experience': '7 Years', 'Email': 'rbs02@ganpatuniversity.ac.in', 'Designation': 'Warden cum Instructor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/RBS.JPG?itok=mbeyB7WA', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Mr. Nitinkumar Govindbhai Patel', 'Experience': '2 Years', 'Email': 'ngp04@ganpatuniversity.ac.in', 'Designation': 'Instructor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/NGP.jpg?itok=f70DypV2', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/it-faculty>
+{'Faculty_name': 'Mr. Ketan J. Sarvakar (M.Tech, B.E.)', 'Experience': '12 Years', 'Email': 'ketan.sarvakar@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_8129_1.JPG?itok=9DPuVDkM', 'Branch': 'it'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/it-faculty>
+{'Faculty_name': 'Ms. Rachana V. Modi (M.Tech, B.Tech)', 'Experience': '9 Years', 'Email': 'rvm02@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/rvm.jpg?itok=yo1ahm-3', 'Branch': 'it'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/it-faculty>
+{'Faculty_name': 'Ms. Bhavisha R. Suthar (M.Tech, B.Tech)', 'Experience': '9 Years', 'Email': 'brs01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/brs.jpeg?itok=OUMHLEN-', 'Branch': 'it'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/it-faculty>
+{'Faculty_name': 'Ms. Hiteshri A. Modi (M.E.,B.E.)', 'Experience': '11 Years', 'Email': 'hnm01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/hnm.jpg?itok=UAPboEUO', 'Branch': 'it'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/it-faculty>
+{'Faculty_name': 'Mr. Bhavin N. Joshi (M.E., B.Tech)', 'Experience': '7 Years', 'Email': 'baj01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/bnj.jpg?itok=mGg_zdZV', 'Branch': 'it'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/it-faculty>
+{'Faculty_name': 'Mr. Himanshu H. Patel (M.E.,B.Tech) ', 'Experience': '7 Years', 'Email': 'hhp01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_8069.JPG?itok=DP80pWki', 'Branch': 'it'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/it-faculty>
+{'Faculty_name': 'Ms. Prachi D. Shah (M.Tech, B.Tech)', 'Experience': '3.5 Years', 'Email': 'pds01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_8079.JPG?itok=myXYk6-g', 'Branch': 'it'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/it-faculty>
+{'Faculty_name': 'Ms. Sunita S. Chauhan (M.E., B.E.)', 'Experience': '5.1 Years', 'Email': 'ssc01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_8093.JPG?itok=TnqlfjYi', 'Branch': 'it'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/it-faculty>
+{'Faculty_name': 'Mr. Yogesh J. Prajapati (M.E.,B.E.)', 'Experience': '6.5 Years', 'Email': 'yjp01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_20200310_073718_0.jpg?itok=IAFUNef6', 'Branch': 'it'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/it-faculty>
+{'Faculty_name': ' Ms. Shraddha  B. Patel (M.Tech, B.E.)', 'Experience': '5 Years', 'Email': 'sbp11@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG.jpg?itok=EpVqTeD_', 'Branch': 'it'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/it-faculty>
+{'Faculty_name': 'Ms. Pooja Thakkar (M.Tech, B.E., Diploma)', 'Experience': '2.5 Years', 'Email': 'pkt01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG20200305113449-01.jpeg?itok=pv8DqPjH', 'Branch': 'it'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/it-faculty>
+{'Faculty_name': 'Mr. Om Prakash Pal (M.Tech, B.Tech)', 'Experience': '12 Years', 'Email': 'opp01@ganpatuniversity.ac.in ', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/oppg_0.jpg?itok=n0cxE4cU', 'Branch': 'it'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ec-faculty>
+{'Faculty_name': 'Dr. Anand P. Mankodia (Ph.D., M.E., B.E.)', 'Experience': '19 Years', 'Email': 'anand.mankodia@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/anand.jpg?itok=ZKvHffCs', 'Branch': 'ec'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ec-faculty>
+{'Faculty_name': 'Dr. Amrutbhai N. Patel (Ph.D., M.E., B.E.)', 'Experience': '16 Years', 'Email': 'amrut.patel@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/amrut.jpg?itok=_C92VHUz', 'Branch': 'ec'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ec-faculty>
+{'Faculty_name': 'Ms. Urmila C. Patel (M.Tech, B.E., Diploma)', 'Experience': '15 Years', 'Email': 'urmila.patel@ganpatuniversity.ac.in \t', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/urmila.jpg?itok=T0Y6Ecq-', 'Branch': 'ec'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ec-faculty>
+{'Faculty_name': 'Mr. Bhavesh H. Soni (M.Tech., B.E., Diploma)', 'Experience': '14 Years', 'Email': 'bhavesh.soni@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/soni.jpg?itok=vRk6tFNJ', 'Branch': 'ec'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ec-faculty>
+{'Faculty_name': 'Mr. Samir B. Joshi (M.Tech., B.E.)', 'Experience': '14 Years', 'Email': 'samir.joshi@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/samir.jpg?itok=iyP2NlU7', 'Branch': 'ec'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ec-faculty>
+{'Faculty_name': 'Mr. Bhumit P. Patel (M.Tech., B.E.)', 'Experience': '13 Years', 'Email': 'bhumit.patel@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG20200314110506.jpg?itok=ARhqGL7h', 'Branch': 'ec'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ec-faculty>
+{'Faculty_name': 'Mr. Yogesh B. Patel (M.E., B.E.)', 'Experience': '11 Years', 'Email': 'ybp01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/ybp_0.jpg?itok=6zprEu3s', 'Branch': 'ec'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ec-faculty>
+{'Faculty_name': 'Ms. Priyanka K. Patel (M.Tech., B.E.)', 'Experience': '10 Years', 'Email': 'pkp02@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/priyanka_0.jpg?itok=jOcDP-VL', 'Branch': 'ec'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ec-faculty>
+{'Faculty_name': 'Ms. Vaishali B. Patel (M.E., B.E.)', 'Experience': '8 Years', 'Email': 'vbp02@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/vaishali_0.jpg?itok=U5KaJ4pl', 'Branch': 'ec'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/ec-faculty>
+{'Faculty_name': 'Mr. Jaldip C. Patel  (M.E., B.E., Diploma)', 'Experience': '8  Years', 'Email': 'jcp01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/jaldip.jpg?itok=ZCFJRLZM', 'Branch': 'ec'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/me-faculty>
+{'Faculty_name': 'Mr. Akash M. Siddhapura (M.Tech., B.E.)', 'Experience': '3 Years', 'Email': 'ams02@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/ams.jpg?itok=YwLfPzVE', 'Branch': 'me'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/me-faculty>
+{'Faculty_name': 'Mr. Viranchi H. Shastri (M.Tech., B.E.)', 'Experience': '6 years', 'Email': 'vhs01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_8076.jpeg?itok=bTSSzs0m', 'Branch': 'me'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/me-faculty>
+{'Faculty_name': 'Dr. Hiren R. Dave (Ph. D, M. Tech.)', 'Experience': '7.5 Years', 'Email': 'hrd01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/hiren.jpg?itok=Iapy6GUH', 'Branch': 'me'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/me-faculty>
+{'Faculty_name': 'Mr. Noel M. Mecwan (M.Tech., B.E.)', 'Experience': '4.6 Years', 'Email': 'nmm01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_20190407_201923.jpg?itok=w_6EAMCP', 'Branch': 'me'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/me-faculty>
+{'Faculty_name': 'Mr. Achyut Trivedi(PhD (Pursuing), M.E.)', 'Experience': '5.5 years', 'Email': 'avt01@ganpatuniversity.ac.in', 'Designation': 'Assistant Professor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/Achyut.jpg?itok=XcGaKodp', 'Branch': 'me'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Mr. Ashok S Patel, NM', 'Experience': '2 Years', 'Email': 'asp04@ganpatuniversity.ac.in', 'Designation': 'Instructor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/ASP.jpeg?itok=wrJoQEZA', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Mr. Rajesh Kumar', 'Experience': '1 Years', 'Email': 'rk01@ganpatuniversity.ac.in', 'Designation': 'Instructor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/Rajesh.jpg?itok=QXpqtsLK', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Mr. Naresh Lade', 'Experience': '1 Years', 'Email': 'ns01@ganpatuniversity.ac.in', 'Designation': 'Instructor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/LDE.jpeg?itok=xoQe_gIx', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Mr. Bhavesh V Prajapati', 'Experience': '2 Years', 'Email': 'bvp01@ganpatuniversity.ac.in', 'Designation': 'Lab Assistant cum Instructor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/Bhavesh.jpeg?itok=I8YuPkr8', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] DEBUG: Scraped from <200 https://www.uvpce.ac.in/marine-faculty>
+{'Faculty_name': 'Mr. Savan D Patel', 'Experience': '5 Years', 'Email': 'sdp03@ganpatuniversity.ac.in', 'Designation': 'Lab Assistant cum Instructor', 'Image': 'https://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/SDP.jpeg?itok=3EkZN51y', 'Branch': 'marine'}
+2020-07-31 12:31:14 [scrapy] INFO: Closing spider (finished)
+2020-07-31 12:31:14 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 2255,
+ 'downloader/request_count': 10,
+ 'downloader/request_method_count/GET': 10,
+ 'downloader/response_bytes': 135061,
+ 'downloader/response_count': 10,
+ 'downloader/response_status_count/200': 10,
+ 'elapsed_time_seconds': 0.859759,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2020, 7, 31, 7, 1, 14, 365969),
+ 'item_scraped_count': 125,
+ 'log_count/DEBUG': 135,
+ 'log_count/INFO': 7,
+ 'response_received_count': 10,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 9,
+ 'scheduler/dequeued/memory': 9,
+ 'scheduler/enqueued': 9,
+ 'scheduler/enqueued/memory': 9,
+ 'start_time': datetime.datetime(2020, 7, 31, 7, 1, 13, 506210)}
+2020-07-31 12:31:14 [scrapy] INFO: Spider closed (finished)
