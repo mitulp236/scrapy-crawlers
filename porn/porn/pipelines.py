@@ -7,6 +7,7 @@
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
 import sqlite3
+import os
 
 class PornPipeline:
 
@@ -45,10 +46,13 @@ class PornPipeline:
             item['title'],
             item['thumbnail_link'],
             item['video_link'],
-            item['video_location'],
+            item['video_location'].replace(" ", "_"),
         )
         self.cursor.execute(insert_query,insertable_data)
         self.sqliteConnection.commit()
+
+    def store_to_s3bucket(self, item):
+         os.system(f"wget -qO- { item['video_location'] } | aws s3 cp - s3://flyingjizz/{item['title'].replace(" ", "_")} ")
 
     def close_spider(self, spider):
         self.sqliteConnection.close()
