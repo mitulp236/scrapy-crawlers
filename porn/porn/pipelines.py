@@ -46,13 +46,14 @@ class PornPipeline:
             item['title'],
             item['thumbnail_link'],
             item['video_link'],
-            item['video_location'].replace(" ", "_"),
+            item['video_location'],
         )
         self.cursor.execute(insert_query,insertable_data)
         self.sqliteConnection.commit()
 
     def store_to_s3bucket(self, item):
-         os.system(f"wget -qO- { item['video_location'] } | aws s3 cp - s3://flyingjizz/{item['title'].replace(" ", "_")} ")
+        command = f"wget -qO- { item['video_location'] } | aws s3 cp - s3://flyingjizz/{item['title']} "
+        os.system(command)
 
     def close_spider(self, spider):
         self.sqliteConnection.close()
